@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبتي قلبي معاكي
+> طول الليل روحي فداكي
+> خدني في حضنك أعيش
+> نار الشوق ما بتنتهيش
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
