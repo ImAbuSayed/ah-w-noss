@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 22, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ah-w-noss/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Ah W Noss](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
